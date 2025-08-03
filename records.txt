@@ -1,0 +1,6 @@
+_________________Indian Airlines Ticket_________________
+Customer ID:	2
+Name:		Sohan
+Gender:		Male
+Destination:	Dubai
+Flight cost:	14000
